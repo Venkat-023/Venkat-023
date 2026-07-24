@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&reversal=false&text=Venkat%20Baba%20Yemineni&fontSize=42&fontColor=FFFFFF&fontAlignY=35&subtitle=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Backend%20%7C%20Cloud&subtitleAlignY=62&theme=dark" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&reversal=false&text=Venkat%20Baba%20Yemineni&fontSize=42&fontColor=FFFFFF&fontAlignY=35&subtitle=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Backend%20%7C%20Cloud&subtitleAlignY=62&theme=darkviolet" width="100%" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
   <a href="https://github.com/Venkat-023" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="30" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/Venkat-023" target="_blank">
+  <a href="https://leetcode.com/u/Venkat_Baba/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="30" alt="LeetCode" />
   </a>
 </div>
@@ -36,53 +36,53 @@
 I am an **AI Software Engineer** focused on building reliable **Agentic AI systems, deep learning applications, and low-latency backend pipelines**.
 
 I work across:
+* 🤖 **Generative AI** & **LLM Orchestration** (Agentic Workflows, LangChain/LangGraph)
+* 🧠 **GraphRAG** & Retrieval-Augmented Generation (Vector DBs, BM25 + Dense Fusion)
+* ⚡ **FastAPI Backend Architecture** & RESTful APIs
+* ☁️ **Dockerized Deployments** & AWS Cloud Infrastructure
+* 🔍 **Computer Vision & NLP Pipelines** for real-world automation
 
-* **Generative AI** and **LLM orchestration**
-* **GraphRAG** and retrieval-augmented systems
-* **FastAPI** backend development
-* **Dockerized deployments** and cloud infrastructure
-* **Machine learning workflows** for real-world automation
-
-I also enjoy solving problems at scale, with **900+ LeetCode challenges solved**, and I like building projects that combine strong engineering with useful product value.
+⚡ Passionate about algorithmic problem-solving (**900+ LeetCode challenges solved** on handle [`Venkat_Baba`](https://leetcode.com/u/Venkat_Baba/)).
 
 ---
 
 ## 🛠 Skills & Toolkit
 
-<table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,fastapi,docker,aws,pytorch,tensorflow,opencv,mysql,postgres,git,github,linux,vscode&perline=7" alt="Skills Icons" />
+</div>
+
+<br/>
+
+<table align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h3>💻 Programming Languages</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" /> <b>Python</b><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="Java" /> <b>Java</b><br/>
+      <h3>💻 Programming & Core</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" /> <b>Python</b> (Proficient)<br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="Java" /> <b>Java</b><br/>
+      <img src="https://img.shields.io/badge/Algorithms-900%2B%20LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="22" alt="LeetCode" /><br/><br/>
+      
+      <h3>⚡ Backend & APIs</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" alt="FastAPI" /> <b>FastAPI</b> & REST APIs<br/>
+      <img src="https://img.shields.io/badge/Data--Validation-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" height="22" alt="Pydantic" /><br/><br/>
 
-```
-  <br/>
-  <h3>⚡ Backend & APIs</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="34" alt="FastAPI" /> <b>FastAPI</b> & REST APIs<br/>
-  <img src="https://img.shields.io/badge/Data--Validation-Pydantic-E92063?style=flat&logo=pydantic&logoColor=white" height="24" alt="Pydantic" /> <b>Pydantic</b><br/>
+      <h3>☁️ Cloud & DevOps</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker" /> <b>Docker</b> & Dockerhub<br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="28" alt="AWS" /> <b>AWS</b> (EC2, S3, ECR, Lambda)<br/>
+      <img src="https://img.shields.io/badge/DevOps-CI%2FCD-0078D7?style=flat-square" height="22" alt="CI/CD" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>🤖 Machine Learning & AI</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" alt="PyTorch" /> <b>PyTorch</b> (Deep Learning)<br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="28" alt="TensorFlow" /> <b>TensorFlow</b> & Keras<br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="28" alt="OpenCV" /> <b>OpenCV</b> (Computer Vision)<br/>
+      <img src="https://img.shields.io/badge/Retrieval-GraphRAG-blueviolet?style=flat-square" height="22" alt="GraphRAG" /> <b>GraphRAG & Vector Search</b><br/>
+      <img src="https://img.shields.io/badge/LLMs-Gemma%20%7C%20DistilBERT-FF6F00?style=flat-square" height="22" alt="LLMs" /> <b>Gemma 4B/2B & DistilBERT</b><br/><br/>
 
-  <br/>
-  <h3>☁️ Cloud & DevOps</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" /> <b>Docker</b><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="34" alt="AWS" /> <b>AWS</b> (EC2, S3, ECR, Lambda)<br/>
-  <img src="https://img.shields.io/badge/DevOps-CI%2FCD-0078D7?style=flat" height="24" alt="CI/CD" /> <b>CI/CD</b>
-</td>
-<td valign="top" width="50%">
-  <h3>🤖 Machine Learning & AI</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="34" alt="TensorFlow" /> <b>TensorFlow</b> & Keras<br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="34" alt="PyTorch" /> <b>PyTorch</b><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="34" alt="OpenCV" /> <b>OpenCV</b><br/>
-  <img src="https://img.shields.io/badge/Retrieval-GraphRAG-blueviolet?style=flat" height="24" alt="GraphRAG" /> <b>GraphRAG</b> & Vector Search<br/>
-  <img src="https://img.shields.io/badge/LLMs-Gemma%20%7C%20DistilBERT-FF6F00?style=flat" height="24" alt="LLMs" /> <b>Gemma / DistilBERT</b><br/>
-
-  <br/>
-  <h3>📊 Data & Tools</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="MySQL" /> <b>MySQL</b><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="34" alt="Pandas" /> <b>Pandas</b>, <b>NumPy</b>, <b>Matplotlib</b>, <b>Seaborn</b>
-</td>
-```
-
+      <h3>📊 Data & Database</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="MySQL" /> <b>MySQL</b><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" alt="Pandas" /> <b>Pandas, NumPy, Matplotlib, Seaborn</b>
+    </td>
   </tr>
 </table>
 
@@ -90,14 +90,13 @@ I also enjoy solving problems at scale, with **900+ LeetCode challenges solved**
 
 ## 💼 Experience
 
-### **AI Intern** | goAI
-
+### 🚀 **AI Intern** | goAI
 *June 2026 – December 2026*
 
-* Designed and built **agentic AI workflows** for autonomous task execution.
-* Worked on **LLM-powered applications** and prompt optimization strategies.
-* Helped develop **production-ready automation systems** for business workflows.
-* Focused on reliability, scalability, and clean deployment pipelines.
+* ⚙️ Designed and built **agentic AI workflows** for autonomous task execution.
+* 🤖 Worked on **LLM-powered applications** and prompt optimization strategies.
+* 📈 Developed **production-ready automation systems** for complex business workflows.
+* 🛡️ Focused on reliability, low-latency inference, and clean deployment pipelines.
 
 ---
 
@@ -124,8 +123,8 @@ I also enjoy solving problems at scale, with **900+ LeetCode challenges solved**
       </td>
       <td><code>GraphRAG</code><br/><code>Gemma 4B/2B</code><br/><code>FastAPI</code><br/><code>Docker</code></td>
       <td>
-        <a href="https://github.com/Venkat-023">GitHub</a><br/>
-        <a href="#">Demo</a>
+        <a href="https://github.com/Venkat-023">💻 GitHub</a><br/>
+        <a href="#">📺 Demo</a>
       </td>
     </tr>
     <tr>
@@ -133,14 +132,14 @@ I also enjoy solving problems at scale, with **900+ LeetCode challenges solved**
       <td>
         <ul>
           <li>CNN-based eye-state and facial-alertness detection from live video</li>
-          <li>Evaluated 15+ models with strong accuracy across eye and face state prediction</li>
+          <li>Evaluated 15+ models achieving <b>98.7% eye-state</b> & <b>98.4% face-state accuracy</b></li>
           <li>Built for low-latency inference with prediction smoothing</li>
         </ul>
       </td>
       <td><code>CNN</code><br/><code>OpenCV</code><br/><code>PyTorch</code><br/><code>Python</code></td>
       <td>
-        <a href="https://github.com/Venkat-023">GitHub</a><br/>
-        <a href="#">Demo</a>
+        <a href="https://github.com/Venkat-023">💻 GitHub</a><br/>
+        <a href="#">📺 Demo</a>
       </td>
     </tr>
     <tr>
@@ -148,14 +147,14 @@ I also enjoy solving problems at scale, with **900+ LeetCode challenges solved**
       <td>
         <ul>
           <li>Real-time toxic comment detection and moderation pipeline</li>
-          <li>DistilBERT trained on millions of comments</li>
-          <li>Optimized for inference deployment with FastAPI</li>
+          <li>DistilBERT trained on <b>2M+ comments</b> (Micro-F1: 0.75, Macro-F1: 0.54)</li>
+          <li>Optimized for inference deployment with FastAPI on Hugging Face Spaces</li>
         </ul>
       </td>
       <td><code>DistilBERT</code><br/><code>FastAPI</code><br/><code>Hugging Face</code><br/><code>Docker</code></td>
       <td>
-        <a href="https://github.com/Venkat-023">GitHub</a><br/>
-        <a href="#">Live Demo</a>
+        <a href="https://github.com/Venkat-023">💻 GitHub</a><br/>
+        <a href="#">🚀 Live Demo</a>
       </td>
     </tr>
   </tbody>
@@ -163,16 +162,15 @@ I also enjoy solving problems at scale, with **900+ LeetCode challenges solved**
 
 ---
 
-## 🏆 Highlights
+## 🏆 Highlights & Achievements
 
 * 🏅 **Amazon ML Hackathon 2025** — Ranked **#1693 / 82,790+** in Product Price Prediction
-* 💡 **LeetCode** — Solved **900+ challenges**
-* 🚀 **IIT Ropar Hackathons**
-
+* 💡 **LeetCode Champion** — Solved **900+ challenges** on [`Venkat_Baba`](https://leetcode.com/u/Venkat_Baba/)
+* 🚀 **IIT Ropar Hackathons**:
   * Semifinalist, **Adivya 2.0** with *SkillQuest AI*
-  * Ranked **3593 / 32K+** in **CodeWar**
+  * Ranked **3593 / 32K+** in **CodeWar (IIT Ropar)**
 * ⚡ **RIFT '26 Hackathon** — Semifinalist in PhysicsWallah's 24-hour hackathon
-* 🛠️ Built **30+ projects** across AI/ML, backend systems, and cloud deployments
+* 🛠️ **30+ Projects** — Built across AI/ML, backend systems, and cloud deployments
 
 ---
 
@@ -192,7 +190,7 @@ I also enjoy solving problems at scale, with **900+ LeetCode challenges solved**
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat-023&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
     </td>
     <td align="center" width="50%">
-      <img src="https://leetcard.jacoblin.cool/Venkat-023?theme=dark&font=Inter" width="100%" alt="LeetCode Stats" />
+      <img src="https://leetcard.jacoblin.cool/Venkat_Baba?theme=dark&font=Inter" width="100%" alt="LeetCode Stats" />
     </td>
   </tr>
 </table>
