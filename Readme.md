@@ -1,164 +1,124 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&reversal=false&text=Venkat%20Baba%20Yemineni&fontSize=42&fontColor=FFFFFF&fontAlignY=35&subtitle=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Backend%20%7C%20Cloud&subtitleAlignY=62&theme=darkviolet" width="100%" />
-</div>
+<p align="right">
+  <img src="https://github.com/Venkat-023/Venkat-023/actions/workflows/snake.yml/badge.svg" alt="Snake Animation" />
+  <img src="https://github.com/Venkat-023/Venkat-023/actions/workflows/activity-log.yml/badge.svg" alt="Activity Workflow" />
+  <img src="https://komarev.com/ghpvc/?username=Venkat-023&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Agentic+AI+Systems+that+Ship+%F0%9F%A4%96;FastAPI+%2B+Docker+%2B+AWS+Cloud+Architect+%E2%9A%A1;GraphRAG+%7C+LLM+Pipelines+%7C+ML+Automation+%F0%9F%A8%B7;900%2B+LeetCode+Challenges+Solved+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&reversal=false&text=VENKAT%20BABA%20YEMINENI&fontSize=42&fontAlignY=36&animation=fadeIn&desc=AI%20Software%20Engineer%20%7C%20Agentic%20Systems%20%7C%20FastAPI%20%7C%20Docker%20%7C%20AWS&descAlignY=58&color=0:0F172A,100:1E293B&fontColor=38BDF8" width="100%" />
+</div>
+
+<h2 align="center">Full-Stack AI & Systems Engineer</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Agentic+AI+Systems+that+Ship+%F0%9F%A4%96;FastAPI+%2B+Docker+%2B+AWS+Cloud+Architect+%E2%9A%A1;GraphRAG+%7C+LLM+Pipelines+%7C+ML+Automation;900%2B+LeetCode+Challenges+Solved+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/venkat-baba-yemineni" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn" />
-  </a>
-  <a href="mailto:venkatbaba23@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="Gmail" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Venkat-023" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="30" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" />
+  </a>
+  <a href="mailto:venkatbaba23@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
   </a>
   <a href="https://leetcode.com/u/Venkat_Baba/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="30" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="28" alt="LeetCode" />
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <img height="190" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2eHBmM3N1bThhMm0zbXplMHpsM2R6amg1dmJub3QzNWRyejZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" alt="AI coding gif" />
-</div>
-
 ---
 
-## 👨‍💻 About Me
-
-I am a **Computer Science Engineer & AI Builder** focused on building practical, production-ready **Agentic AI systems, deep learning workflows, and low-latency backend pipelines**.
-
-- 🤖 **Agentic AI & LLMs**: Building agentic workflows, prompt optimization frameworks, and grounded reasoning pipelines.
-- 🧠 **GraphRAG & Retrieval**: Section-aware chunking, entity extraction, BM25 + dense vector fusion, and multi-paper scientific copilots.
-- ⚡ **Backend & Cloud**: Low-latency FastAPI microservices, containerized Docker applications, and scalable AWS deployments (EC2, S3, ECR, Lambda).
-- 💡 **Problem Solving**: Strong DSA foundation with **900+ LeetCode problems solved** (Handle: [`Venkat_Baba`](https://leetcode.com/u/Venkat_Baba/)).
-
----
-
-## 🛠️ Tech Stack & Toolkit
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,fastapi,docker,aws,pytorch,tensorflow,opencv,mysql,postgres,git,github,linux,vscode&perline=7" alt="Skills Icons" />
-</div>
-
-<br/>
+## 💫 Introduction & About Me
 
 <table align="center" width="100%">
   <tr>
-    <td valign="top" width="50%">
-      <h3>💻 Languages & Core</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" /> <b>Python</b> (Proficient)<br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="Java" /> <b>Java</b><br/>
-      <img src="https://img.shields.io/badge/DSA-900%2B%20LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="22" alt="LeetCode" /><br/><br/>
-
-      <h3>⚡ Backend & Cloud</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" alt="FastAPI" /> <b>FastAPI</b> & REST APIs<br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker" /> <b>Docker</b> & Docker Hub<br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="28" alt="AWS" /> <b>AWS</b> (EC2, S3, ECR, Lambda)
-    </td>
-    <td valign="top" width="50%">
-      <h3>🤖 Machine Learning & AI</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" alt="PyTorch" /> <b>PyTorch</b> & <b>TensorFlow / Keras</b><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="28" alt="OpenCV" /> <b>OpenCV</b> (Computer Vision)<br/>
-      <img src="https://img.shields.io/badge/GraphRAG-Gemma%20%7C%20DistilBERT-blueviolet?style=flat-square" height="22" alt="GraphRAG" /><br/><br/>
-
-      <h3>📊 Data & Tools</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="MySQL" /> <b>MySQL</b><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" alt="Pandas" /> <b>Pandas, NumPy, Matplotlib, Seaborn</b>
+    <td valign="top">
+      <h3>🚀 Hello World! I'm Venkat Baba Yemineni</h3>
+      <p>
+        I'm a passionate <b>AI Software Engineer & Systems Developer</b> dedicated to designing robust Agentic AI workflows, high-performance backend microservices, and modern intelligent applications. I thrive on solving complex technical puzzles and building scalable digital products.
+      </p>
+      <ul>
+        <li>🔭 <b>Currently Working On</b>: Building next-generation Agentic AI pipelines & LLM workflows as AI Intern at <b>goAI</b>.</li>
+        <li>🌱 <b>Currently Learning</b>: Distributed systems architecture, advanced GraphRAG topologies, and local LLM acceleration.</li>
+        <li>👯 <b>Open for Collaboration</b>: Agentic AI tools, open-source devtools, and scalable FastAPI backend services.</li>
+        <li>💬 <b>Ask Me About</b>: Python, FastAPI, Docker, AWS, GraphRAG, PyTorch, Deep Learning, and DSA.</li>
+        <li>⚡ <b>Fun Fact</b>: I love turning coffee ☕ into clean, production-ready code & AI pipelines! 🤖</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💼 Work Experience
+## 🛠️ Technical Stack & Skills
 
-### 🚀 **AI Intern** | goAI
-*June 2026 – December 2026*
-
-- ⚙️ Architected and deployed **Agentic AI systems** and LLM-powered applications for autonomous task execution.
-- 📈 Designed scalable **AI workflows** and prompt optimization frameworks.
-- 🛡️ Developed production-ready AI solutions to automate complex business processes and enhance decision-making.
-
----
-
-## 🚀 Featured Projects
-
-<table>
+<table align="center" width="100%">
   <thead>
     <tr>
-      <th>Project</th>
-      <th>Key Highlights</th>
-      <th>Tech Stack</th>
-      <th>Links</th>
+      <th align="left" width="25%">Category</th>
+      <th align="left" width="75%">Technologies & Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>Insight Weaver</b><br/><i>Scientific Discovery Copilot</i></td>
+      <td><b>Languages</b></td>
       <td>
-        <ul>
-          <li>Evidence-first GraphRAG pipeline for scientific PDFs</li>
-          <li>Section-aware chunking, entity extraction, BM25 + vector retrieval fusion</li>
-          <li>Contradiction detection and hypothesis generation with local Gemma 4B / 2B fallback</li>
-        </ul>
-      </td>
-      <td><code>GraphRAG</code><br/><code>Gemma 4B/2B</code><br/><code>FastAPI</code><br/><code>Docker</code></td>
-      <td>
-        <a href="https://github.com/Venkat-023">💻 GitHub</a><br/>
-        <a href="#">📺 Demo Video</a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </td>
     </tr>
     <tr>
-      <td><b>TACOS</b><br/><i>Toxic Comment Moderation System</i></td>
+      <td><b>AI & Machine Learning</b></td>
       <td>
-        <ul>
-          <li>Real-time toxic comment detection, deletion, and escalation pipeline</li>
-          <li>Trained DistilBERT on <b>2M+ comments</b> (Micro-F1: 0.75, Macro-F1: 0.54)</li>
-          <li>Optimized FastAPI inference pipeline deployed on Hugging Face Spaces</li>
-        </ul>
-      </td>
-      <td><code>DistilBERT</code><br/><code>FastAPI</code><br/><code>Hugging Face</code><br/><code>Docker</code></td>
-      <td>
-        <a href="https://github.com/Venkat-023">💻 GitHub</a><br/>
-        <a href="#">🚀 Live Demo</a>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/GraphRAG-8A2BE2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Gemma-4285F4?style=flat-square" />
+        <img src="https://img.shields.io/badge/DistilBERT-FFD21E?style=flat-square&logoColor=black" />
       </td>
     </tr>
     <tr>
-      <td><b>Driver Drowsiness Detection</b><br/><i>Real-Time CV Safety System</i></td>
+      <td><b>Backend & APIs</b></td>
       <td>
-        <ul>
-          <li>CNN-based eye-state and facial-alertness analysis from live video</li>
-          <li>Evaluated 15+ models achieving <b>98.7% eye-state accuracy</b> and <b>98.4% face-state accuracy</b></li>
-          <li>Low-latency alert mechanism with prediction smoothing</li>
-        </ul>
-      </td>
-      <td><code>CNN</code><br/><code>OpenCV</code><br/><code>PyTorch</code><br/><code>Python</code></td>
-      <td>
-        <a href="https://github.com/Venkat-023">💻 GitHub</a><br/>
-        <a href="#">📺 Demo Video</a>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-007ACC?style=flat-square" />
+        <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
       </td>
     </tr>
     <tr>
-      <td><b>AI Intelligent Query System</b><br/><i>Natural Language Analytics App</i></td>
+      <td><b>Databases</b></td>
       <td>
-        <ul>
-          <li>Chat + interactive dashboard for querying tabular CSV data using natural language</li>
-          <li>Automatic charting, data cleaning suggestions, and LLM-powered data insights</li>
-          <li>Built for rapid exploration and simple cloud deployment</li>
-        </ul>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       </td>
-      <td><code>Streamlit</code><br/><code>Gemini / Groq</code><br/><code>Pandas</code><br/><code>Python</code></td>
+    </tr>
+    <tr>
+      <td><b>DevOps & Cloud</b></td>
       <td>
-        <a href="https://github.com/Venkat-023">💻 GitHub</a><br/>
-        <a href="#">🚀 Demo</a>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/CI%2FCD-0078D7?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Tools & Platforms</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </td>
     </tr>
   </tbody>
@@ -166,21 +126,49 @@ I am a **Computer Science Engineer & AI Builder** focused on building practical,
 
 ---
 
-## 🏆 Key Achievements & Competitions
+## 🏆 GitHub Trophies & Milestones
 
-* 🏅 **Amazon ML Hackathon 2025** — Ranked **#1693 / 82,790+** in Product Price Prediction.
-* 💡 **LeetCode DSA Master** — Solved **900+ LeetCode challenges** on [`Venkat_Baba`](https://leetcode.com/u/Venkat_Baba/).
-* 🚀 **IIT Ropar Contests**:
-  * Semifinalist, **Adivya 2.0** (*SkillQuest AI* gamified learning platform).
-  * Ranked **3593 / 32K+** in **CodeWar (IIT Ropar)**.
-* ⚡ **RIFT '26 Hackathon** — Semifinalist in PhysicsWallah's 24-hour hackathon.
-* 🛠️ **Project Velocity** — Developed **30+ projects** involving AI/ML, REST APIs, and Dockerized deployments over AWS.
+<div align="center">
+  <img src="https://img.shields.io/badge/TROPHY-AMAZON_ML_HACKATHON_%231693-FF9900?style=for-the-badge&logo=trophy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TROPHY-900%2B_LEETCODE_SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/TROPHY-IIT_ROPAR_SEMIFINALIST-0078D7?style=for-the-badge&logo=trophy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TROPHY-AGENTIC_AI_DEVELOPER-8A2BE2?style=for-the-badge&logo=robot&logoColor=white" />
+</div>
 
 ---
 
-## 📊 Live GitHub & Coding Activity
+## 📊 GitHub Statistics & Overview
 
-<table align="center">
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="25%">Metric</th>
+      <th align="left" width="75%">Overview</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🚀 <b>Primary Focus</b></td>
+      <td>Agentic AI Architecture, GraphRAG & Low-Latency Cloud Services</td>
+    </tr>
+    <tr>
+      <td>⚡ <b>Core Stack</b></td>
+      <td>Python, FastAPI, PyTorch, Docker, AWS, MySQL</td>
+    </tr>
+    <tr>
+      <td>🛡️ <b>DevOps & Tools</b></td>
+      <td>Docker, Git, GitHub Actions, AWS (EC2/S3/ECR/Lambda), Hugging Face</td>
+    </tr>
+    <tr>
+      <td>🔥 <b>Activity Status</b></td>
+      <td>AI Intern @ goAI & 900+ LeetCode Solver (Handle: Venkat_Baba)</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=Venkat-023&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" />
@@ -199,36 +187,69 @@ I am a **Computer Science Engineer & AI Builder** focused on building practical,
   </tr>
 </table>
 
-<br/>
+---
+
+## 🐍 Dynamic Contribution Snake Graph
 
 <div align="center">
-  <h3>⚡ Contribution Animations</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venkat-023/Venkat-023/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venkat-023/Venkat-023/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Venkat-023/Venkat-023/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venkat-023/Venkat-023/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venkat-023/Venkat-023/output/github-contribution-grid-snake.svg">
+    <img alt="Dynamic Contribution Snake Graph" src="https://raw.githubusercontent.com/Venkat-023/Venkat-023/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
 ---
 
-## 👥 Community & Leadership
+## 🌟 Featured Projects
 
-* 📚 **U&I Volunteer Teacher** — Mentored underprivileged and orphaned students through weekly academic support sessions.
-* 🤝 **NSS Coordinator** — Organized workshops, coordinated volunteers, logistics, and campus events.
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="20%">Project</th>
+      <th align="left" width="50%">Description</th>
+      <th align="left" width="20%">Tech Stack</th>
+      <th align="center" width="10%">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🚀 <b>Insight Weaver</b></td>
+      <td>Evidence-first GraphRAG copilot for scientific PDFs with entity graph extraction, hybrid retrieval, and grounded Gemma reasoning with automatic fallback.</td>
+      <td><code>GraphRAG</code> <code>Gemma 4B/2B</code> <code>FastAPI</code> <code>Docker</code></td>
+      <td align="center"><a href="https://github.com/Venkat-023">View Repo</a></td>
+    </tr>
+    <tr>
+      <td>🛡️ <b>TACOS</b></td>
+      <td>Real-time toxic comment moderation, deletion, and escalation system. Trained DistilBERT on 2M+ comments (Micro-F1: 0.75).</td>
+      <td><code>DistilBERT</code> <code>FastAPI</code> <code>Docker</code> <code>Hugging Face</code></td>
+      <td align="center"><a href="https://github.com/Venkat-023">View Repo</a></td>
+    </tr>
+    <tr>
+      <td>👁️ <b>Driver Drowsiness Detection</b></td>
+      <td>Real-time driver alertness detection using live video. Evaluated 15+ CNN models achieving 98.7% eye-state & 98.4% face-state accuracy.</td>
+      <td><code>CNN</code> <code>OpenCV</code> <code>PyTorch</code> <code>Python</code></td>
+      <td align="center"><a href="https://github.com/Venkat-023">View Repo</a></td>
+    </tr>
+    <tr>
+      <td>💡 <b>AI Intelligent Query System</b></td>
+      <td>Natural-language analytics dashboard for querying CSV data with LLM-based insights, automated charting, and smart data cleaning.</td>
+      <td><code>Streamlit</code> <code>Gemini / Groq</code> <code>Pandas</code> <code>Python</code></td>
+      <td align="center"><a href="https://github.com/Venkat-023">View Repo</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## 👁️ Profile Views & Footer
+## 💡 Developer Philosophy & Quote
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Venkat-023&style=flat-square&color=38BDF8" alt="Profile Views" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Inspirational Quote" />
+  <blockquote style="font-style: italic; font-size: 1.1em;">
+    "First, solve the problem. Then, write the code."
+    <br/>
+    <b>— John Johnson</b>
+  </blockquote>
 </div>
 
 <br/>
