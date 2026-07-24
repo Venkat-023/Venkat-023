@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI+Intern+%40+goAI+%F0%9F%A4%96;Agentic+AI+%26+LLM+Pipelines+%E2%9A%A1;900%2B+LeetCode+Challenges+Solved+%F0%9F%92%BB;FastAPI%2C+Docker+%26+AWS+Cloud+Architect+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Agentic+AI+Systems+that+Ship+%F0%9F%A4%96;FastAPI+%2B+Docker+%2B+AWS+Cloud+Architect+%E2%9A%A1;GraphRAG+%7C+LLM+Pipelines+%7C+ML+Automation+%F0%9F%A8%B7;900%2B+LeetCode+Challenges+Solved+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -33,20 +33,16 @@
 
 ## 👨‍💻 About Me
 
-I am an **AI Software Engineer** focused on building reliable **Agentic AI systems, deep learning applications, and low-latency backend pipelines**.
+I am a **Computer Science Engineer & AI Builder** focused on building practical, production-ready **Agentic AI systems, deep learning workflows, and low-latency backend pipelines**.
 
-I work across:
-* 🤖 **Generative AI** & **LLM Orchestration** (Agentic Workflows, LangChain/LangGraph)
-* 🧠 **GraphRAG** & Retrieval-Augmented Generation (Vector DBs, BM25 + Dense Fusion)
-* ⚡ **FastAPI Backend Architecture** & RESTful APIs
-* ☁️ **Dockerized Deployments** & AWS Cloud Infrastructure
-* 🔍 **Computer Vision & NLP Pipelines** for real-world automation
-
-⚡ Passionate about algorithmic problem-solving (**900+ LeetCode challenges solved** on handle [`Venkat_Baba`](https://leetcode.com/u/Venkat_Baba/)).
+- 🤖 **Agentic AI & LLMs**: Building agentic workflows, prompt optimization frameworks, and grounded reasoning pipelines.
+- 🧠 **GraphRAG & Retrieval**: Section-aware chunking, entity extraction, BM25 + dense vector fusion, and multi-paper scientific copilots.
+- ⚡ **Backend & Cloud**: Low-latency FastAPI microservices, containerized Docker applications, and scalable AWS deployments (EC2, S3, ECR, Lambda).
+- 💡 **Problem Solving**: Strong DSA foundation with **900+ LeetCode problems solved** (Handle: [`Venkat_Baba`](https://leetcode.com/u/Venkat_Baba/)).
 
 ---
 
-## 🛠 Skills & Toolkit
+## 🛠️ Tech Stack & Toolkit
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,fastapi,docker,aws,pytorch,tensorflow,opencv,mysql,postgres,git,github,linux,vscode&perline=7" alt="Skills Icons" />
@@ -57,29 +53,23 @@ I work across:
 <table align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h3>💻 Programming & Core</h3>
+      <h3>💻 Languages & Core</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" /> <b>Python</b> (Proficient)<br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="Java" /> <b>Java</b><br/>
-      <img src="https://img.shields.io/badge/Algorithms-900%2B%20LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="22" alt="LeetCode" /><br/><br/>
-      
-      <h3>⚡ Backend & APIs</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" alt="FastAPI" /> <b>FastAPI</b> & REST APIs<br/>
-      <img src="https://img.shields.io/badge/Data--Validation-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" height="22" alt="Pydantic" /><br/><br/>
+      <img src="https://img.shields.io/badge/DSA-900%2B%20LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="22" alt="LeetCode" /><br/><br/>
 
-      <h3>☁️ Cloud & DevOps</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker" /> <b>Docker</b> & Dockerhub<br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="28" alt="AWS" /> <b>AWS</b> (EC2, S3, ECR, Lambda)<br/>
-      <img src="https://img.shields.io/badge/DevOps-CI%2FCD-0078D7?style=flat-square" height="22" alt="CI/CD" />
+      <h3>⚡ Backend & Cloud</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" alt="FastAPI" /> <b>FastAPI</b> & REST APIs<br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker" /> <b>Docker</b> & Docker Hub<br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="28" alt="AWS" /> <b>AWS</b> (EC2, S3, ECR, Lambda)
     </td>
     <td valign="top" width="50%">
       <h3>🤖 Machine Learning & AI</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" alt="PyTorch" /> <b>PyTorch</b> (Deep Learning)<br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="28" alt="TensorFlow" /> <b>TensorFlow</b> & Keras<br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" alt="PyTorch" /> <b>PyTorch</b> & <b>TensorFlow / Keras</b><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="28" alt="OpenCV" /> <b>OpenCV</b> (Computer Vision)<br/>
-      <img src="https://img.shields.io/badge/Retrieval-GraphRAG-blueviolet?style=flat-square" height="22" alt="GraphRAG" /> <b>GraphRAG & Vector Search</b><br/>
-      <img src="https://img.shields.io/badge/LLMs-Gemma%20%7C%20DistilBERT-FF6F00?style=flat-square" height="22" alt="LLMs" /> <b>Gemma 4B/2B & DistilBERT</b><br/><br/>
+      <img src="https://img.shields.io/badge/GraphRAG-Gemma%20%7C%20DistilBERT-blueviolet?style=flat-square" height="22" alt="GraphRAG" /><br/><br/>
 
-      <h3>📊 Data & Database</h3>
+      <h3>📊 Data & Tools</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="MySQL" /> <b>MySQL</b><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" alt="Pandas" /> <b>Pandas, NumPy, Matplotlib, Seaborn</b>
     </td>
@@ -88,15 +78,14 @@ I work across:
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
 ### 🚀 **AI Intern** | goAI
 *June 2026 – December 2026*
 
-* ⚙️ Designed and built **agentic AI workflows** for autonomous task execution.
-* 🤖 Worked on **LLM-powered applications** and prompt optimization strategies.
-* 📈 Developed **production-ready automation systems** for complex business workflows.
-* 🛡️ Focused on reliability, low-latency inference, and clean deployment pipelines.
+- ⚙️ Architected and deployed **Agentic AI systems** and LLM-powered applications for autonomous task execution.
+- 📈 Designed scalable **AI workflows** and prompt optimization frameworks.
+- 🛡️ Developed production-ready AI solutions to automate complex business processes and enhance decision-making.
 
 ---
 
@@ -106,7 +95,7 @@ I work across:
   <thead>
     <tr>
       <th>Project</th>
-      <th>Highlights</th>
+      <th>Key Highlights</th>
       <th>Tech Stack</th>
       <th>Links</th>
     </tr>
@@ -117,38 +106,23 @@ I work across:
       <td>
         <ul>
           <li>Evidence-first GraphRAG pipeline for scientific PDFs</li>
-          <li>Entity graph extraction, hybrid retrieval, and grounded reasoning</li>
-          <li>Contradiction detection and hypothesis generation with fallback LLM inference</li>
+          <li>Section-aware chunking, entity extraction, BM25 + vector retrieval fusion</li>
+          <li>Contradiction detection and hypothesis generation with local Gemma 4B / 2B fallback</li>
         </ul>
       </td>
       <td><code>GraphRAG</code><br/><code>Gemma 4B/2B</code><br/><code>FastAPI</code><br/><code>Docker</code></td>
       <td>
         <a href="https://github.com/Venkat-023">💻 GitHub</a><br/>
-        <a href="#">📺 Demo</a>
+        <a href="#">📺 Demo Video</a>
       </td>
     </tr>
     <tr>
-      <td><b>Driver Drowsiness Detection</b><br/><i>Real-Time Safety System</i></td>
+      <td><b>TACOS</b><br/><i>Toxic Comment Moderation System</i></td>
       <td>
         <ul>
-          <li>CNN-based eye-state and facial-alertness detection from live video</li>
-          <li>Evaluated 15+ models achieving <b>98.7% eye-state</b> & <b>98.4% face-state accuracy</b></li>
-          <li>Built for low-latency inference with prediction smoothing</li>
-        </ul>
-      </td>
-      <td><code>CNN</code><br/><code>OpenCV</code><br/><code>PyTorch</code><br/><code>Python</code></td>
-      <td>
-        <a href="https://github.com/Venkat-023">💻 GitHub</a><br/>
-        <a href="#">📺 Demo</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>TACOS</b><br/><i>Toxic Comment Moderation</i></td>
-      <td>
-        <ul>
-          <li>Real-time toxic comment detection and moderation pipeline</li>
-          <li>DistilBERT trained on <b>2M+ comments</b> (Micro-F1: 0.75, Macro-F1: 0.54)</li>
-          <li>Optimized for inference deployment with FastAPI on Hugging Face Spaces</li>
+          <li>Real-time toxic comment detection, deletion, and escalation pipeline</li>
+          <li>Trained DistilBERT on <b>2M+ comments</b> (Micro-F1: 0.75, Macro-F1: 0.54)</li>
+          <li>Optimized FastAPI inference pipeline deployed on Hugging Face Spaces</li>
         </ul>
       </td>
       <td><code>DistilBERT</code><br/><code>FastAPI</code><br/><code>Hugging Face</code><br/><code>Docker</code></td>
@@ -157,24 +131,54 @@ I work across:
         <a href="#">🚀 Live Demo</a>
       </td>
     </tr>
+    <tr>
+      <td><b>Driver Drowsiness Detection</b><br/><i>Real-Time CV Safety System</i></td>
+      <td>
+        <ul>
+          <li>CNN-based eye-state and facial-alertness analysis from live video</li>
+          <li>Evaluated 15+ models achieving <b>98.7% eye-state accuracy</b> and <b>98.4% face-state accuracy</b></li>
+          <li>Low-latency alert mechanism with prediction smoothing</li>
+        </ul>
+      </td>
+      <td><code>CNN</code><br/><code>OpenCV</code><br/><code>PyTorch</code><br/><code>Python</code></td>
+      <td>
+        <a href="https://github.com/Venkat-023">💻 GitHub</a><br/>
+        <a href="#">📺 Demo Video</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>AI Intelligent Query System</b><br/><i>Natural Language Analytics App</i></td>
+      <td>
+        <ul>
+          <li>Chat + interactive dashboard for querying tabular CSV data using natural language</li>
+          <li>Automatic charting, data cleaning suggestions, and LLM-powered data insights</li>
+          <li>Built for rapid exploration and simple cloud deployment</li>
+        </ul>
+      </td>
+      <td><code>Streamlit</code><br/><code>Gemini / Groq</code><br/><code>Pandas</code><br/><code>Python</code></td>
+      <td>
+        <a href="https://github.com/Venkat-023">💻 GitHub</a><br/>
+        <a href="#">🚀 Demo</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
 ---
 
-## 🏆 Highlights & Achievements
+## 🏆 Key Achievements & Competitions
 
-* 🏅 **Amazon ML Hackathon 2025** — Ranked **#1693 / 82,790+** in Product Price Prediction
-* 💡 **LeetCode Champion** — Solved **900+ challenges** on [`Venkat_Baba`](https://leetcode.com/u/Venkat_Baba/)
-* 🚀 **IIT Ropar Hackathons**:
-  * Semifinalist, **Adivya 2.0** with *SkillQuest AI*
-  * Ranked **3593 / 32K+** in **CodeWar (IIT Ropar)**
-* ⚡ **RIFT '26 Hackathon** — Semifinalist in PhysicsWallah's 24-hour hackathon
-* 🛠️ **30+ Projects** — Built across AI/ML, backend systems, and cloud deployments
+* 🏅 **Amazon ML Hackathon 2025** — Ranked **#1693 / 82,790+** in Product Price Prediction.
+* 💡 **LeetCode DSA Master** — Solved **900+ LeetCode challenges** on [`Venkat_Baba`](https://leetcode.com/u/Venkat_Baba/).
+* 🚀 **IIT Ropar Contests**:
+  * Semifinalist, **Adivya 2.0** (*SkillQuest AI* gamified learning platform).
+  * Ranked **3593 / 32K+** in **CodeWar (IIT Ropar)**.
+* ⚡ **RIFT '26 Hackathon** — Semifinalist in PhysicsWallah's 24-hour hackathon.
+* 🛠️ **Project Velocity** — Developed **30+ projects** involving AI/ML, REST APIs, and Dockerized deployments over AWS.
 
 ---
 
-## 📊 Git & Coding Activity
+## 📊 Live GitHub & Coding Activity
 
 <table align="center">
   <tr>
@@ -198,6 +202,7 @@ I work across:
 <br/>
 
 <div align="center">
+  <h3>⚡ Contribution Animations</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venkat-023/Venkat-023/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venkat-023/Venkat-023/output/pacman-contribution-graph.svg">
@@ -209,18 +214,24 @@ I work across:
 
 ## 👥 Community & Leadership
 
-* 📚 **U&I Volunteer Teacher** — Supported underprivileged and orphaned students through weekly academic mentoring.
-* 🤝 **NSS Coordinator** — Coordinated volunteers, campus activities, and service initiatives.
+* 📚 **U&I Volunteer Teacher** — Mentored underprivileged and orphaned students through weekly academic support sessions.
+* 🤝 **NSS Coordinator** — Organized workshops, coordinated volunteers, logistics, and campus events.
 
 ---
 
-## 💭 Quote of the Day
+## 👁️ Profile Views & Footer
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Venkat-023&style=flat-square&color=38BDF8" alt="Profile Views" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Inspirational Quote" />
 </div>
 
----
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=false&theme=darkviolet" width="100%" />
