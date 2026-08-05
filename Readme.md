@@ -44,9 +44,9 @@
       </p>
       <ul>
         <li>🔭 <b>Currently Working On</b>: Building next-generation Agentic AI pipelines & LLM workflows as AI Intern at <b>goAI</b>.</li>
-        <li>🌱 <b>Currently Learning</b>: Distributed systems architecture, advanced GraphRAG topologies, and local LLM acceleration.</li>
+        <li>🌱 <b>Currently Learning</b>: Distributed systems architecture, advanced RAG topologies, and local LLM acceleration.</li>
         <li>👯 <b>Open for Collaboration</b>: Agentic AI tools, open-source devtools, and scalable FastAPI backend services.</li>
-        <li>💬 <b>Ask Me About</b>: Python, FastAPI, Docker, AWS, GraphRAG, PyTorch, Deep Learning, and DSA.</li>
+        <li>💬 <b>Ask Me About</b>: Python, FastAPI, Docker, AWS, PyTorch, Deep Learning, and DSA.</li>
         <li>⚡ <b>Fun Fact</b>: I love turning coffee ☕ into clean, production-ready code & AI pipelines! 🤖</li>
       </ul>
     </td>
