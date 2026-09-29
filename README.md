@@ -245,6 +245,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#15](https://github.com/Venkat-023/Police-Detail-Inventory/pull/15) in [Venkat-023/Police-Detail-Inventory](https://github.com/Venkat-023/Police-Detail-Inventory)
+2. 💪 Opened PR [#15](https://github.com/Venkat-023/Police-Detail-Inventory/pull/15) in [Venkat-023/Police-Detail-Inventory](https://github.com/Venkat-023/Police-Detail-Inventory)
 <!--END_SECTION:activity-->
 
 ---
