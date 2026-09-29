@@ -21,6 +21,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: Venkat-023
+          TARGET_FILE: README.md
           COMMIT_MSG: "chore: update recent activity"
           MAX_LINES: 5
 
