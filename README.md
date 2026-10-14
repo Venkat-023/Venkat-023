@@ -245,8 +245,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Venkat-023/Insight-Weaver/pull/5) in [Venkat-023/Insight-Weaver](https://github.com/Venkat-023/Insight-Weaver)
-2. 💪 Opened PR [#15](https://github.com/Venkat-023/Police-Detail-Inventory/pull/15) in [Venkat-023/Police-Detail-Inventory](https://github.com/Venkat-023/Police-Detail-Inventory)
+1. 💪 Opened PR [#1](https://github.com/Venkat-023/Gemma-hackathon/pull/1) in [Venkat-023/Gemma-hackathon](https://github.com/Venkat-023/Gemma-hackathon)
+2. 💪 Opened PR [#16](https://github.com/Venkat-023/Police-Detail-Inventory/pull/16) in [Venkat-023/Police-Detail-Inventory](https://github.com/Venkat-023/Police-Detail-Inventory)
 <!--END_SECTION:activity-->
 
 ---
