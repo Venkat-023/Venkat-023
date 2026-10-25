@@ -245,8 +245,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/Venkat-023/OpenEnv-ReinforcementLearning/pull/9) in [Venkat-023/OpenEnv-ReinforcementLearning](https://github.com/Venkat-023/OpenEnv-ReinforcementLearning)
-2. 💪 Opened PR [#1](https://github.com/Venkat-023/Gemma-hackathon/pull/1) in [Venkat-023/Gemma-hackathon](https://github.com/Venkat-023/Gemma-hackathon)
+1. 🎉 Merged PR [#17](https://github.com/Venkat-023/Police-Detail-Inventory/pull/17) in [Venkat-023/Police-Detail-Inventory](https://github.com/Venkat-023/Police-Detail-Inventory)
+2. 💪 Opened PR [#17](https://github.com/Venkat-023/Police-Detail-Inventory/pull/17) in [Venkat-023/Police-Detail-Inventory](https://github.com/Venkat-023/Police-Detail-Inventory)
 <!--END_SECTION:activity-->
 
 ---
